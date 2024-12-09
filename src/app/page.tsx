@@ -6,3 +6,5 @@ export default function page() {
     </div>
   )
 }
+
+// https://www.mridul.tech/tools/manifest-generator
